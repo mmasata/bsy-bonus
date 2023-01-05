@@ -1,6 +1,6 @@
 from enum import Enum
 
-TOKEN = "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"  # Your GitHub personal access token
+TOKEN = "your-token"  # Your GitHub personal access token
 API_URL = "https://api.github.com/gists"  # The URL of the GitHub Gist API
 HEADERS = {"Authorization": f"Bearer {TOKEN}"}  # Set the authorization header
 
